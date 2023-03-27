@@ -15,6 +15,7 @@ And I have also used Batch, JSON and INI here and there (if that counts).
 - [BarbeMCR's The Betrothed](https://github.com/BarbeMCR/the-betrothed), a Python platformer thing implemented with Pygame
 - [BarbeMCR's The Betrothed Launcher](https://github.com/BarbeMCR/the-betrothed-launcher), a launcher for BarbeMCR's The Betrothed made in Python
 - [mlmcr](https://github.com/BarbeMCR/mlmcr), an esoteric Assembly-like programming language made in pure Python
+- [BarbeMCR's OpenCipher](https://github.com/BarbeMCR/opencipher), an encryption/decryption CL-based application and (*Python*) API for obfuscating files and texts (*__not__* safe for actual cryptography)
 
 ### Completed projects
 - [Pytracer](https://github.com/BarbeMCR/pytracer), a Python re-implementation of the C++ raytracer in the "Raytracing in One Weekend" book
