@@ -3,7 +3,7 @@
 ### I am learning
 - Python (since June 2021): my main language
 - Ruby (since March 2023)
-- mlmcr (since the beginning of time): my own (kinda) esoteric programming language
+- mlmcr (since the beginning of time): my own esoteric (kinda) programming language
 
 I have also previously done some surface-level coding in:
 - C++
